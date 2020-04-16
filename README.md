@@ -10,10 +10,11 @@ By Dr. Angela Yu
 <hr>
 
 ## Section 32: React.js
-
+Topics covered
 - Introduction to JSX and Babel
 - Javascript Expression in JSX & ES6 Template Literals
 - Inline Styling
+- Dev tools 
 - React Components
 - Props
 - Mapping
