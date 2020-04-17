@@ -20,4 +20,4 @@ Topics covered
 - Mapping
 - Event Handlers
 - React Forms
-- Changing State and more
+- Changing State, Hooks, and more
